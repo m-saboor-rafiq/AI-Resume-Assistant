@@ -16,7 +16,7 @@ st.set_page_config(
     layout="wide",
 )
 
-MODEL = "gemini-2.5-flash"
+MODEL = "gemini-3.5-flash"
 MAX_FILE_SIZE_MB = 10
 
 
