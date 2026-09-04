@@ -22,7 +22,7 @@ st.set_page_config(
 )
 
 # Primary model
-PRIMARY_MODEL = "gemini-2.5-flash"
+PRIMARY_MODEL = "gemini-3.5-flash"
 
 # Used automatically if the primary model is temporarily busy
 FALLBACK_MODEL = "gemini-2.5-flash-lite"
