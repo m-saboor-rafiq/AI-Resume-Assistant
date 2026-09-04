@@ -25,7 +25,7 @@ st.set_page_config(
 PRIMARY_MODEL = "gemini-3.5-flash"
 
 # Used automatically if the primary model is temporarily busy
-FALLBACK_MODEL = "gemini-2.5-flash-lite"
+FALLBACK_MODEL = "gemini-3.5-flash-lite"
 
 # Maximum upload size
 MAX_FILE_SIZE_MB = 10
